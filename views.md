@@ -239,3 +239,8 @@ After VIEW, learn:
 - Query optimization
 
 These make you strong in SQL interviews.
+
+## Notes
+
+- Delete works only if view is based on single table.
+- If views are based on joins and multiple table data in that case data updation will not work.
